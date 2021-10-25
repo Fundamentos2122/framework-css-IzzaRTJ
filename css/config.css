@@ -1,0 +1,34 @@
+*{box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+html,body{margin: 0px; }
+
+:root{
+    --color-primary-cleared: #5d98f0;
+    --color-primary: #0d6efd;
+    --color-primary-darkened: #0747a5;
+
+    --color-secondary-cleared: #dfe3e8;
+    --color-secondary: #adb5bd;
+    --color-secondary-darkened: #6d7176;
+
+    --color-succes-cleared: #63ac8a;
+    --color-succes: #198754;
+    --color-succes-darkened: #0d462b;
+
+    --color-info-cleared: #17a2b8;
+    --color-info: #17a2b8;
+    --color-info-darkened: #17a2b8;
+
+    --color-warning: #ffc107;
+    --color-danger: #dc3545;
+    --color-light: #f8f9fa;
+
+    --color-dark-cleared: #686c70;
+    --color-dark: #343a40;
+    --color-dark-darkened: #181a1d;
+
+    --border-color: #dee2ef;
+}
